@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NUEL-JOHN
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning JavaScript and python
-- 💞️ I’m looking to collaborate on some ideas with Apple and Google
+- 🌱 I’m experienced in HTML, CSS, JavaScript and python
+- 💞️ I’m looking to collaborate on some ideas with Apple, Google and other tech companies👍🏽.
 - 📫 How to reach me (johnikpeama96@gmail.com)
 
 <!---
